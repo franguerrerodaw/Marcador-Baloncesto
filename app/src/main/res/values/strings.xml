@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Marcador Baloncesto</string>
+    <string name="txtLocal">Local</string>
+    <string name="txtVisita">Visita</string>
+    <string name="reset">Resetear</string>
+    <string name="modificar_marcador">Cambiar Marcador</string>
+    <string name="title_activity_modifica_marcador">ModificaMarcador</string>
+    <string name="txtElocal">Equipo Local</string>
+    <string name="txtEvisita">Equipo Visitante</string>
+
+</resources>
